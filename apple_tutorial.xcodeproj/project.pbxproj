@@ -14,6 +14,7 @@
 		EC828AF82694A374001AFB2D /* apple_tutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC828AF72694A374001AFB2D /* apple_tutorialTests.swift */; };
 		EC828B032694A374001AFB2D /* apple_tutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC828B022694A374001AFB2D /* apple_tutorialUITests.swift */; };
 		EC828B112694AA2B001AFB2D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC828B102694AA2B001AFB2D /* CircleImage.swift */; };
+		EC828B132694AD39001AFB2D /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC828B122694AD39001AFB2D /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EC828B022694A374001AFB2D /* apple_tutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = apple_tutorialUITests.swift; sourceTree = "<group>"; };
 		EC828B042694A374001AFB2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC828B102694AA2B001AFB2D /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		EC828B122694AD39001AFB2D /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		EC828AE42694A372001AFB2D /* apple_tutorial */ = {
 			isa = PBXGroup;
 			children = (
+				EC828B122694AD39001AFB2D /* MapView.swift */,
 				EC828AE52694A372001AFB2D /* apple_tutorialApp.swift */,
 				EC828AE72694A372001AFB2D /* ContentView.swift */,
 				EC828AE92694A374001AFB2D /* Assets.xcassets */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC828AE82694A372001AFB2D /* ContentView.swift in Sources */,
+				EC828B132694AD39001AFB2D /* MapView.swift in Sources */,
 				EC828AE62694A372001AFB2D /* apple_tutorialApp.swift in Sources */,
 				EC828B112694AA2B001AFB2D /* CircleImage.swift in Sources */,
 			);
